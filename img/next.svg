@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="46px" viewBox="0 0 36 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25.6672731,10.8169284 L40.9461396,31.891227 C43.2153522,35.0211755 42.517588,39.3980604 39.3876395,41.6672731 C38.1927854,42.5335423 36.7547047,43 35.2788665,43 L4.72113353,43 C0.85514028,43 -2.27886647,39.8659932 -2.27886647,36 C-2.27886647,34.5241617 -1.81240878,33.0860811 -0.946139575,31.891227 L14.3327269,10.8169284 C16.6019396,7.68697991 20.9788245,6.98921565 24.108773,9.25842832 C24.7073128,9.69236967 25.2333318,10.2183886 25.6672731,10.8169284 Z" id="Triangle" fill="#8BBA99" fill-rule="nonzero" transform="translate(20.000000, 23.000000) scale(-1, 1) rotate(-90.000000) translate(-20.000000, -23.000000) "></path>
+    </g>
+</svg>
