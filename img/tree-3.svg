@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="129px" viewBox="0 0 95 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 95</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M47.5,91 L47.5,127" id="Stroke-16" stroke="#BB7F66" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M41,127.5 L55,127.5" id="Stroke-18" stroke="#BB7F66" stroke-width="2" stroke-linecap="round"></path>
+        <g id="Fill-95" fill="#8BBA99">
+            <path d="M94.6021047,104.620961 L65.2216215,53.9868517 C64.9490217,53.5147814 65.2897714,52.9305617 65.8323497,52.9305617 L73.5988205,52.9305617 C76.4034522,52.9305617 78.1517601,49.9103547 76.7494442,47.4952324 L50.0372929,1.45924508 C48.9101979,-0.486415027 46.0872181,-0.486415027 44.9601231,1.45924508 L18.2453506,47.4952324 C16.8456559,49.9103547 18.5965848,52.9305617 21.3985954,52.9305617 L29.1650663,52.9305617 C29.7076446,52.9305617 30.0483942,53.5147814 29.7757945,53.9868517 L0.397932431,104.620961 C-0.731783714,106.566621 0.678395604,109 2.93520674,109 L92.0622092,109 C94.3216415,109 95.7318208,106.566621 94.6021047,104.620961" id="Fill-20"></path>
+        </g>
+    </g>
+</svg>
